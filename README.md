@@ -130,7 +130,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-reddy-76063a222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:manishreddy809@gmail.com"><img src="https://img.shields.io/badge/-manishreddy809@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/ManishReddy54"><img src="https://img.shields.io/badge/-@DuweshKumar_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/ManishReddy54"><img src="https://img.shields.io/badge/-@ManishReddy54_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
