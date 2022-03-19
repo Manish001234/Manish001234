@@ -80,15 +80,15 @@
 
 </td>
 
-<td width="25%" align="center">
+<!-- <td width="25%" align="center">
 
 <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
 
-</td>
+</td> -->
 
-</tr>
+<!-- </tr>
 
 <tr valign="top">
 
@@ -99,7 +99,7 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
-
+ -->
 <td width="25%" align="center">
 
 <span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
@@ -116,14 +116,14 @@
 
 </td>
 
-<td width="25%" align="center">
+<!-- <td width="25%" align="center">
 
 <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 
 </td>
-
+ -->
 </tr>
 
 </tbody>
