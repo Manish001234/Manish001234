@@ -58,7 +58,7 @@
 
 <td width="25%" align="center">
 
-<span>NodeJS</span><br><br>
+  <span><b>NodeJS</b></span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 
@@ -66,7 +66,7 @@
 
 <td width="25%" align="center">
 
-<span>Express</span><br><br>
+<span><b>Express</b></span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
 
@@ -74,23 +74,11 @@
 
 <td width="25%" align="center">
 
-<span>Mongodb</span><br><br>
+<span><b>MongoDB</b></span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 
 </td>
-
-<!-- <td width="25%" align="center">
-
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-
-</td> -->
-
-<!-- </tr>
-
-<tr valign="top">
 
 <td width="25%" align="center">
 
@@ -99,7 +87,11 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
- -->
+
+</tr>
+
+<!-- <tr valign="top" style="display:flex;justify-content:space-around;">
+
 <td width="25%" align="center">
 
 <span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
@@ -116,15 +108,23 @@
 
 </td>
 
-<!-- <td width="25%" align="center">
+<td width="25%" align="center">
 
-<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
+<span><b>Postman</b></span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg">
 
 </td>
- -->
-</tr>
+  
+ <td width="25%" align="center">
+
+<span><b>npm</b></span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
+
+</td>
+
+</tr> -->
 
 </tbody>
 
