@@ -80,18 +80,14 @@
 
 </td>
 
-<td width="25%" align="center">
+<!-- <td width="25%" align="center">
 
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
-</td>
-
-</tr>
-
- <tr valign="top" style="display:flex;justify-content:space-around;">
-
+</td> -->
+  
 <td width="25%" align="center">
 
 <span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
@@ -99,8 +95,14 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 
 </td>
+  
+</tr>
 
-<!-- <td width="25%" align="center">
+<!-- <tr valign="top" style="display:flex;justify-content:space-around;">
+
+
+
+ <td width="25%" align="center">
 
 <span>𝗚𝗶𝘁</span><br><br>
 
