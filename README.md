@@ -90,7 +90,7 @@
 
 </tr>
 
-<!-- <tr valign="top" style="display:flex;justify-content:space-around;">
+ <tr valign="top" style="display:flex;justify-content:space-around;">
 
 <td width="25%" align="center">
 
@@ -100,7 +100,7 @@
 
 </td>
 
-<td width="25%" align="center">
+<!-- <td width="25%" align="center">
 
 <span>𝗚𝗶𝘁</span><br><br>
 
@@ -122,9 +122,9 @@
 
 <img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
 
-</td>
+</td> -->
 
-</tr> -->
+</tr> 
 
 </tbody>
 
