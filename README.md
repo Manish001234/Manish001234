@@ -2,8 +2,7 @@
 
 - 🌱 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manish001234](https://github.com/Manish001234)
-
+- 👨‍💻 Portfolio : https://portfolio-manishreddy.vercel.app/#/
 - 📝 I write articles on [https://medium.com/@reddymanish809](https://medium.com/@reddymanish809)
 
 - 📫 How to reach me **contact@manishreddy809@gmail.com**
