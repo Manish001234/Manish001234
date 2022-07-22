@@ -5,7 +5,7 @@
 - 👨‍💻 Portfolio : https://portfolio-manishreddy.vercel.app/#/
 - 📝 I write articles on [https://medium.com/@reddymanish809](https://medium.com/@reddymanish809)
 
-- 📫 How to reach me **contact@manishreddy809@gmail.com**
+- 📫 How to reach me **contact@reddymanish809@gmail.com**
 
 <hr />
 
