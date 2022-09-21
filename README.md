@@ -14,7 +14,6 @@
  I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.
 <br><br>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
 - 👨‍💻 Portfolio : https://portfolio-manishreddy.vercel.app/#/
 - 📝 I write articles on [https://medium.com/@reddymanish809](https://medium.com/@reddymanish809)
