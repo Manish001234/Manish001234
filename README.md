@@ -1,11 +1,23 @@
+<!-- ![MasterHead](https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640) -->
 
-I'm a Full Stack Web Developer.🧑‍
 
-- 🌱 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manish001234&label=Profile%20views&color=0e75b6&style=flat" alt="Manish" /> </p>
+<img align="left" alt="coding" width="400" src="https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640"></img>
+<br><br>
+<h1 style="color:blue" align="right">Hi 👋, I'm Manish Reddy
+   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></a>
+</h1>
+<h3 align="right">MERN Stack Developer</h3>
+<br><br>
+
+# Brief about me...!!!
+ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.
+<br><br>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
 - 👨‍💻 Portfolio : https://portfolio-manishreddy.vercel.app/#/
 - 📝 I write articles on [https://medium.com/@reddymanish809](https://medium.com/@reddymanish809)
-
 - 📫 How to reach me **contact@reddymanish809@gmail.com**
 
 <hr />
