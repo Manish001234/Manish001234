@@ -7,7 +7,7 @@
 <h1 style="color:blue" align="right">Hi 👋, I'm Manish Reddy
 
 </h1>
-<h3 align="right">MERN Stack Developer</h3>
+<h3 align="right">MERN STACK DEVELOPER</h3>
 <br><br>
 
 # Brief about me...!!!
