@@ -146,7 +146,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-reddy-76063a222/"><img src="https://img.shields.io/badge/Linkdin-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:manishreddy809@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:reddymanish809@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/ManishReddy54"><img src="https://img.shields.io/badge/-Twitter-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
