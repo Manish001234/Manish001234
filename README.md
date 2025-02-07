@@ -7,11 +7,11 @@
 <h1 style="color:blue" align="right">Hi 👋, I'm Manish Reddy
 
 </h1>
-<h3 align="right">MERN STACK DEVELOPER</h3>
+<h3 align="right">SOFTWARE DEVELOPER</h3>
 <br><br>
 
 # Brief about me...!!!
- I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.
+ I'm a Full Stack Web Developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.
 <br><br>
 
 
